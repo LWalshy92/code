@@ -6,7 +6,7 @@ import subprocess
 
 # Constants
 # ChatGPT
-openai.api_key = "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"
+openai.api_key = ""
 GPTModel="gpt-3.5-turbo-16k"
 GPTTemperature = 0.0
 max_tokens = 15000 
